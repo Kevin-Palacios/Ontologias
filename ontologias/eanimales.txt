@@ -1,0 +1,8 @@
+perro
+gato
+aguila
+leon
+ardilla
+topo
+pato
+pinguino
